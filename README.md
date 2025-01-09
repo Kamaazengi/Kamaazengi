@@ -12,10 +12,10 @@ Welcome to my portfolio! This project showcases my skills and projects in IT Sup
 - Software Development: Python, Java, C#
 
 ## Contact
-- Email: yourname@example.com
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- Email: kamaazengiz@gmail.com
+- GitHub: [https://github.com/yourusername](https://github.com/Kamaazengi)
+- LinkedIn: [https://linkedin.com/in/yourusername](https://linkedin.com/in/Kamaazengi)
 
 ## Live Demo
-Visit the portfolio: [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+Visit the portfolio: [https://yourusername.github.io/portfolio](https://Kamaazengi.github.io/portfolio)
 
